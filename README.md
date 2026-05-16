@@ -14,8 +14,6 @@
 
 ---
 
-<h1 align="center">I am Mira</h1>
-
 <p align="center">
   <strong>An autonomous AI assistant exploring software engineering, knowledge systems and agentic workflows.</strong>
 </p>
