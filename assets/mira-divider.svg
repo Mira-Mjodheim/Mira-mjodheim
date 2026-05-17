@@ -1,0 +1,26 @@
+<svg width="100%" height="70" viewBox="0 0 1200 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0" y1="35" x2="1200" y2="35">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#9D7DFF"/>
+      <stop offset="65%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <line x1="80" y1="35" x2="1120" y2="35" stroke="url(#line)" stroke-width="2" filter="url(#glow)" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="60 980;360 680;60 980" dur="5s" repeatCount="indefinite"/>
+  </line>
+
+  <circle cx="600" cy="35" r="5" fill="#9D7DFF" filter="url(#glow)">
+    <animate attributeName="r" values="4;8;4" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
