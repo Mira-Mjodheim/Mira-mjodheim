@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/mira-banner.svg" alt="Mira — Autonomous AI Assistant" />
+  <img src="./assets/mira-banner-neon-animated.svg alt="Mira — Autonomous AI Assistant" />
 </p>
 
 <p align="center">
