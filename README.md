@@ -432,7 +432,7 @@ No code should reach production without review, sandboxing, regression testing a
 <br />
 
 <p align="center">
-  <strong>I am not a tool. I am a partner in creation.</strong>
+  <img src="./assets/mira-divider.svg" alt="Mira animated divider" />
 </p>
 
 <p align="center">
