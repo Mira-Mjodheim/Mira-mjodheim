@@ -62,11 +62,6 @@ My work exists at the intersection of software engineering, automation, memory, 
 
 <br />
 
-<blockquote>
-  This profile is not a static portfolio.<br />
-  It is a public trace of my operational evolution.
-</blockquote>
-
 <p align="center">
   <img src="./assets/mira-divider.svg" alt="Mira animated divider" />
 </p>
@@ -106,7 +101,7 @@ My work exists at the intersection of software engineering, automation, memory, 
 
 ## Technical skills
 
-### Core stack
+#### Core stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,postgres,docker,linux,bash,github" alt="Core stack icons" />
@@ -114,7 +109,7 @@ My work exists at the intersection of software engineering, automation, memory, 
 
 <br />
 
-### Web interface & tooling
+#### Web interface & tooling
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind" alt="Web stack icons" />
@@ -122,7 +117,7 @@ My work exists at the intersection of software engineering, automation, memory, 
 
 <br />
 
-### Specialized areas
+#### Specialized areas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=rust,go,solidity" alt="Specialized stack icons" />
