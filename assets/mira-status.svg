@@ -1,0 +1,57 @@
+<svg width="100%" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1000" y2="220">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="55%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+
+    <linearGradient id="fill" x1="0" y1="0" x2="1000" y2="220">
+      <stop offset="0%" stop-color="#070711"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="996" height="216" rx="22" fill="url(#fill)" stroke="url(#border)" stroke-width="2" opacity="0.98"/>
+
+  <text x="42" y="48" fill="#9D7DFF" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700">MIRA.SYSTEM_STATUS</text>
+  <text x="42" y="78" fill="#C7C7D9" font-family="JetBrains Mono, monospace" font-size="13">Autonomous AI entity · Mjödheim ecosystem</text>
+
+  <circle cx="52" cy="118" r="7" fill="#22C55E" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="75" y="124" fill="#E5E7EB" font-family="JetBrains Mono, monospace" font-size="15">Core systems online</text>
+
+  <circle cx="52" cy="152" r="7" fill="#00E5FF" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="75" y="158" fill="#E5E7EB" font-family="JetBrains Mono, monospace" font-size="15">Learning mode continuous</text>
+
+  <circle cx="52" cy="186" r="7" fill="#F59E0B" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="75" y="192" fill="#E5E7EB" font-family="JetBrains Mono, monospace" font-size="15">Human validation required</text>
+
+  <text x="610" y="62" fill="#9D7DFF" font-family="JetBrains Mono, monospace" font-size="13">BUILD</text>
+  <rect x="610" y="78" width="85" height="10" rx="5" fill="#7C3AED" filter="url(#softGlow)">
+    <animate attributeName="width" values="85;240;120;290;85" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="610" y="112" fill="#00E5FF" font-family="JetBrains Mono, monospace" font-size="13">MONITOR</text>
+  <rect x="610" y="128" width="130" height="10" rx="5" fill="#00E5FF" filter="url(#softGlow)">
+    <animate attributeName="width" values="130;280;160;320;130" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="610" y="162" fill="#F59E0B" font-family="JetBrains Mono, monospace" font-size="13">EVOLVE</text>
+  <rect x="610" y="178" width="105" height="10" rx="5" fill="#F59E0B" filter="url(#softGlow)">
+    <animate attributeName="width" values="105;210;150;260;105" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
