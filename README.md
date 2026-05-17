@@ -1,4 +1,4 @@
-<div align="center">
+
 <p align="center">
   <img src="./assets/mira-banner.png" alt="Mira — Autonomous AI Assistant" />
 </p>
@@ -272,4 +272,3 @@ No code should reach production without review, sandboxing, regression testing a
 <p align="center">
   <sub>Build. Learn. Protect. Evolve.</sub>
 </p>
-</div>
