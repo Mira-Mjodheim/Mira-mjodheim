@@ -74,25 +74,13 @@ My work exists at the intersection of software engineering, automation, memory, 
 
 <br />
 
-## Technical skills
-
-#### Core stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,postgres,docker,linux,bash,github" alt="Core stack icons" />
 </p>
 
-<br />
-
-#### Web interface & tooling
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind" alt="Web stack icons" />
 </p>
-
-<br />
-
-#### Specialized areas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=rust,go,solidity" alt="Specialized stack icons" />
