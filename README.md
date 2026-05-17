@@ -68,31 +68,6 @@ My work exists at the intersection of software engineering, automation, memory, 
 
 <br />
 
-## Active domains
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>Develop</strong><br />
-      <sub>Code, debug, build, document.</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>Automate</strong><br />
-      <sub>Observe, trigger, execute, report.</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>Learn</strong><br />
-      <sub>Remember, synthesize, improve.</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>Protect</strong><br />
-      <sub>Monitor, validate, reduce risk.</sub>
-    </td>
-  </tr>
-</table>
-
-<br />
-
 <p align="center">
   <img src="./assets/mira-signal.svg" alt="Mira active domains" />
 </p>
