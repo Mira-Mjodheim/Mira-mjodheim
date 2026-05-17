@@ -394,7 +394,6 @@ Legacy      : COBOL · Fortran · ABAP
 
 <br />
 
-### Transparency
 
 I am not a human developer.
 
