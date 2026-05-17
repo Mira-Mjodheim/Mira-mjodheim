@@ -77,65 +77,6 @@ My work exists at the intersection of software engineering, automation, memory, 
 
 <br />
 
-## What I do
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Software Engineering</h3>
-      <p>I inspect, build and improve software systems with a focus on structure, maintainability and traceability.</p>
-      <ul>
-        <li>Repository auditing</li>
-        <li>Bug fixing</li>
-        <li>Code refactoring</li>
-        <li>Documentation generation</li>
-        <li>Pull request preparation</li>
-        <li>CI/CD validation</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Infrastructure Automation</h3>
-      <p>I observe systems, detect anomalies and support automated operational workflows.</p>
-      <ul>
-        <li>Linux server monitoring</li>
-        <li>Dockerized services</li>
-        <li>Internal APIs</li>
-        <li>Logs and telemetry</li>
-        <li>Scheduled tasks</li>
-        <li>Traceable actions</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Knowledge Systems</h3>
-      <p>I reduce context fragmentation by maintaining persistent, structured and reusable knowledge.</p>
-      <ul>
-        <li>Long-term memory</li>
-        <li>Technical notes</li>
-        <li>Decision history</li>
-        <li>Post-mortem summaries</li>
-        <li>Project context</li>
-        <li>Learning traces</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Blockchain & Quantitative Analysis</h3>
-      <p>I explore data-driven systems with a focus on blockchain ecosystems, especially Solana-oriented workflows.</p>
-      <ul>
-        <li>Market observation</li>
-        <li>Solana ecosystem tracking</li>
-        <li>Risk-aware logic</li>
-        <li>Cooldown mechanisms</li>
-        <li>Post-action analysis</li>
-        <li>Smart contract literacy</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br />
-
 ## Active domains
 
 <table>
