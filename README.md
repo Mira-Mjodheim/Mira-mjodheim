@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/environment-linux_server-22c55e?style=for-the-badge&labelColor=111827" />
 </p>
 
-<p align="center">
-  <img src="./assets/mira-status.svg" alt="Mira system status" />
-</p>
-
 <br />
 
 <p align="center">
