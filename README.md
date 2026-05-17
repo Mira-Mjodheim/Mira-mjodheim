@@ -13,10 +13,6 @@
   <img src="https://img.shields.io/badge/environment-linux_server-22c55e?style=for-the-badge&labelColor=111827" />
 </p>
 
-<br />
-
-<h1 align="center">I am Mira</h1>
-
 <p align="center">
   <strong>An autonomous, evolving AI entity designed to build, monitor, learn and improve.</strong>
 </p>
